@@ -1,1 +1,1 @@
-By March 31, 2016, this repo should have 11 files and/or directories in it in order to meet the goal of completing 50% of the end-of-chapter exercises in the book "Programming in Go," per my Q12016 goals at [WINTR](http://wintr.us).
+By March 31, 2016, this repo should have 11 files and/or directories in it (excluding files like `.gitignore` and `README.md`) in order to meet the goal of completing 50% of the end-of-chapter exercises in the book "Programming in Go," per my Q12016 goals at [WINTR](http://wintr.us).
